@@ -45,7 +45,7 @@ def endpoint(request):
         "current_day": current_day,
         "utc_time": utc_time,
         "track": track,
-        "github_file_url": "https://github.com/Cadeau1/API_Endpoint/blob/main/file_name.ext",  # Replace with actual URL
+        "github_file_url": "https://github.com/Cadeau1/API_Endpoint.git",  # Replace with actual URL
         "github_repo_url": "https://github.com/Cadeau1/API_Endpoint",  # Replace with actual URL
         "status_code": 200
     }
